@@ -1,0 +1,2 @@
+开源版本只支持MySQL数据库，如果想使用其它数据库，商业版本支持更多数据库，请查看这里
+https://www.wgstart.com/menus/docs2.html
